@@ -1,0 +1,11 @@
+Name,Age,Marks,City
+Alice,20,85,Bangalore
+Bob,21,78,Delhi
+Charlie,,90,Mumbai
+David,22,67,Chennai
+Eve,20,,Bangalore
+Alice,20,85,Bangalore
+Frank,23,88,Delhi
+Grace,,75,Mumbai
+Henry,21,82,Delhi
+Ivy,22,,Chennai

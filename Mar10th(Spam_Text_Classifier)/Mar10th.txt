@@ -1,0 +1,36 @@
+1. Features for Spam Detection
+
+Features are the inputs used to identify whether a message is spam or not.
+
+Presence of suspicious words (e.g., “free”, “win”, “offer”)
+Number of links in the message
+Presence of special characters (!, $, %)
+Length of the message
+Sender information (unknown or suspicious sender)
+Frequency of messages sent by the sender
+Use of uppercase words (e.g., “URGENT”, “BUY NOW”)
+
+
+
+2. Data Needed
+
+To train a spam detection system, we need labeled data:
+
+Collection of emails or messages
+Each message labeled as Spam or Not Spam (Ham)
+Data should include:
+Message content
+Sender details
+Timestamp (optional)
+Large dataset for better accuracy
+Data from different sources for diversity
+
+
+3. Possible Mistakes (Challenges)
+
+False Positives: Important messages marked as spam
+False Negatives: Spam messages marked as normal
+New types of spam not seen in training data
+Messages with mixed content (part spam, part genuine)
+Overfitting if model learns only specific patterns
+Language variations and slang making detection difficult

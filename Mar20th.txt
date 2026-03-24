@@ -1,0 +1,94 @@
+20 Messy Sentences with Issues
+I luv this movie sooo much!!! 😍
+Issues: Slang (“luv”), repeated letters, emoji
+Wat r u doing rn?
+Issues: Slang/abbreviations (“Wat”, “r”, “rn”)
+This product is goood but costlyyy
+Issues: Repeated letters
+I cant beleive this happend
+Issues: Typos (“beleive”, “happend”)
+LOL that was funny 😂😂
+Issues: Slang (“LOL”), emojis
+Plz send me the detials asap
+Issues: Slang (“Plz”, “asap”), typo (“detials”)
+omg this is awsm!!!
+Issues: Slang (“omg”, “awsm”), punctuation
+I am soooo tired today
+Issues: Repeated letters
+Thnx for ur help
+Issues: Slang (“Thnx”, “ur”)
+This is not gud at all
+Issues: Slang (“gud”)
+I will b there in 5 mins
+Issues: Slang (“b”, “mins”)
+Why u did this???
+Issues: Grammar, punctuation
+Hpy bday bro 🎉
+Issues: Slang (“Hpy”), emoji
+I dont like dis movie
+Issues: Typo/slang (“dont”, “dis”)
+Cant wait 4 the party!!!
+Issues: Slang (“4”), punctuation
+This place iz amazing
+Issues: Typo/slang (“iz”)
+U should try this its gr8
+Issues: Slang (“U”, “gr8”)
+I am feeling 😢 today
+Issues: Emoji
+He is vry intelligent
+Issues: Typo (“vry”)
+Gud mrng everyone
+Issues: Slang (“Gud”, “mrng”)
+
+
+
+Preprocessing Required
+
+To clean the above text, the following preprocessing steps are needed:
+
+1. Lowercasing
+
+Convert all text to lowercase for consistency.
+Example: “LOL” → “lol”
+
+2. Removing Emojis
+
+Remove or replace emojis with text labels.
+Example: “😍” → “happy”
+
+3. Expanding Slang and Abbreviations
+
+Convert informal words into standard form.
+Examples:
+
+“luv” → “love”
+“ur” → “your”
+“gr8” → “great”
+4. Correcting Typos
+
+Fix spelling mistakes using spell-checking techniques.
+Example: “beleive” → “believe”
+
+5. Removing Repeated Characters
+
+Normalize repeated letters.
+Example: “soooo” → “so”
+
+6. Removing Punctuation
+
+Remove unnecessary punctuation marks.
+Example: “!!!” → removed
+
+7. Tokenization
+
+Split sentences into individual words (tokens).
+Example: “I love this” → [I, love, this]
+
+8. Stopword Removal
+
+Remove common words like “is”, “the”, “am” if needed.
+
+9. Stemming/Lemmatization
+
+Reduce words to their base form.
+Example: “running” → “run”

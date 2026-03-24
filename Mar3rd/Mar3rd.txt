@@ -1,0 +1,4 @@
+Relationship
+
+1.There is a positive linear relationship
+2.As study hours increase, marks also increase

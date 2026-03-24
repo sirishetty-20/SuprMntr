@@ -1,0 +1,7 @@
+Data cleaning is an important step in data analysis because it improves the quality and reliability of the dataset.
+
+It removes errors and inconsistencies, ensuring accurate results.
+Handling missing values prevents incorrect analysis and misleading conclusions.
+Removing duplicate data avoids repetition and bias in results.
+Standardizing text ensures uniformity, making data easier to analyze.
+Clean data helps in better decision-making and improves the performance of machine learning models.

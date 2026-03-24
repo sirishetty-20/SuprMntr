@@ -1,0 +1,4 @@
+Customer Groups Explanation
+Cluster 0: High income, high spending → Premium customers
+Cluster 1: Low income, low spending → Budget customers
+Cluster 2: Mixed behavior → Average customers

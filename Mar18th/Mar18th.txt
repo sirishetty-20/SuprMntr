@@ -1,0 +1,38 @@
+Customer Groups (Segmentation Result)
+
+After applying K-Means clustering (K = 5) on the mall dataset based on Annual Income and Spending Score, customers are divided into the following groups:
+
+1. High Income – High Spending (Premium Customers)
+
+These customers have high income and high spending habits. They are the most valuable and loyal customers for the business.
+
+Business Strategy:
+Focus on premium services, loyalty programs, and exclusive offers. Target them with luxury products and personalized marketing.
+
+2. High Income – Low Spending (Careful Customers)
+
+These customers have high income but low spending behavior. They tend to be cautious or selective in their purchases.
+
+Business Strategy:
+Use discounts, special offers, and marketing campaigns to encourage them to spend more and become active buyers.
+
+3. Low Income – High Spending (Impulsive Customers)
+
+These customers have low income but high spending habits. They may be impulsive buyers.
+
+Business Strategy:
+Promote affordable deals and budget-friendly products. However, avoid excessive targeting as their long-term value may be limited.
+
+4. Low Income – Low Spending (Budget Customers)
+
+These customers have low income and low spending patterns. They contribute the least to overall revenue.
+
+Business Strategy:
+Provide basic and low-cost products. Limit high-cost marketing efforts for this group.
+
+5. Average Income – Average Spending (Standard Customers)
+
+These customers have moderate income and moderate spending behavior. They form a stable customer base.
+
+Business Strategy:
+Maintain customer satisfaction through regular offers, memberships, and consistent service.

@@ -1,0 +1,11 @@
+OUTPUT:
+
+List Time: 0.27658987045288086
+NumPy Time: 0.010375261306762695
+
+
+OBSERVATIONS: 
+
+NumPy arrays perform operations significantly faster than Python lists.
+NumPy uses vectorized operations which avoid explicit loops.
+Python lists take more time due to element-by-element processing.

@@ -1,0 +1,10 @@
+                Weather
+               /   |    \
+           Sunny  Rain  Overcast
+            /       |       |
+        Humidity   Wind    Play
+         /   \      /  \
+      High  Normal Strong Weak
+       |       |      |     |
+   Don't Play Play Don't  Play
+                         Play

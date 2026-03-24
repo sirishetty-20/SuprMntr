@@ -1,0 +1,11 @@
+KNN (K-Nearest Neighbors) works by finding similar items based on features.
+
+In platforms like Netflix:
+
+Each movie is represented by features (genre, ratings, watch history).
+When a user watches a movie, the system finds similar movies using KNN.
+It compares movies based on similarity (distance).
+The closest (most similar) movies are recommended to the user.
+
+Example:
+If you watch action movies, KNN finds other movies with similar features and recommends them.

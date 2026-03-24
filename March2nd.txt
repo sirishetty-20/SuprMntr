@@ -1,0 +1,78 @@
+1. College Domain
+
+Idea: Student Performance Prediction
+Problem: Predict whether a student will pass or fail
+Input:
+Attendance percentage
+Internal marks
+Assignment completion
+Study hours
+Output:
+Pass / Fail (or predicted score)
+
+Idea: Placement Prediction
+Problem: Predict if a student will get placed
+Input:
+CGPA
+Skills (programming, communication)
+Internship experience
+Aptitude score
+Output:
+Placed / Not Placed
+
+2. Healthcare Domain
+
+Idea: Disease Prediction
+Problem: Predict possible disease based on symptoms
+Input:
+Fever
+Cough
+Blood pressure
+Sugar level
+Output:
+Disease name (e.g., Diabetes, Flu)
+
+Idea: Hospital Readmission Prediction
+Problem: Predict if a patient will be readmitted
+Input:
+Age
+Medical history
+Treatment details
+Length of stay
+Output:
+Yes / No
+
+
+3. Shopping Domain
+
+Idea: Product Recommendation System
+Problem: Suggest products to users
+Input:
+User browsing history
+Previous purchases
+Ratings
+Output:
+Recommended products
+
+Idea: Price Prediction
+Problem: Predict price of a product
+Input:
+Brand
+Features
+Ratings
+Demand
+Output:
+Estimated price
+
+
+4. Additional Idea 
+
+Idea: Fake Review Detection
+Problem: Identify fake reviews online
+Input:
+Review text
+Rating
+User activity
+Output:
+Fake / Genuine
+
