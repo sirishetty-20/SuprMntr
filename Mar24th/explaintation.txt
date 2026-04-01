@@ -1,0 +1,30 @@
+Explanation of Results
+
+The TF-IDF technique was applied on five documents to identify important words. The output shows TF-IDF scores, which represent the importance of each word in a document.
+
+Words with higher TF-IDF scores are considered more important because they appear frequently in that document but rarely in other documents. Words with lower scores are less important as they are common across multiple documents.
+
+Document 1
+
+The top keywords in Document 1 are prediction, used, for, is, and analysis.
+Among these, prediction has high importance because it is unique to this document. Words like analysis have moderate importance as they appear in more than one document. Common words such as is and for have lower importance as they appear in multiple documents.
+
+Document 2
+
+The important words in Document 2 are learning, improves, models, deep, and machine.
+Words like improves and models are highly important because they are unique to this document. Words such as learning and machine have lower importance since they appear in multiple documents.
+
+Document 3
+
+The top keywords are uses, science, statistics, data, and and.
+The word uses has high importance as it is unique. Words like science and statistics have moderate importance. The word data has lower importance as it appears frequently across documents.
+
+Document 4
+
+The important words include learning, artificial, includes, intelligence, and deep.
+Words such as artificial, includes, and intelligence are highly important because they are unique. The word learning has lower importance due to its presence in multiple documents.
+
+Document 5
+
+The top keywords are data, are, important, in, and analysis.
+The word important has high importance as it is unique to this document. Words like analysis have moderate importance. Common words such as data and in have lower importance.

@@ -1,0 +1,34 @@
+1. Resume Prompt
+
+Weak Prompt:
+Create a resume for me.
+
+Strong Prompt:
+Create a professional resume for a Computer Science student with skills in Python, web development, and machine learning. Include sections for education, projects, skills, and internships. Format it in a clean and modern style.
+
+Comparison:
+The weak prompt is vague and does not specify any details such as skills, format, or sections, resulting in a generic resume. The strong prompt clearly defines the role, skills, and structure, leading to a more relevant and professional output.
+
+
+2. Business Idea Prompt
+
+Weak Prompt:
+Give me a business idea.
+
+Strong Prompt:
+Suggest a low-budget startup business idea suitable for a college student in India. The idea should require minimal investment, have good profit potential, and include a brief explanation of how it works.
+
+Comparison:
+The weak prompt lacks context and constraints, so the AI may generate any random idea. The strong prompt provides clear conditions like budget, target user, and location, resulting in a practical and useful business idea.
+
+
+3. Study Plan Prompt
+
+Weak Prompt:
+Give me a study plan.
+
+Strong Prompt:
+Create a 2-month study plan for a beginner preparing for a data science role. Include daily topics, practice time, and revision strategy. The plan should be realistic and easy to follow.
+
+Comparison:
+The weak prompt is too general and does not mention duration or goal. The strong prompt includes specific details like time frame, target role, and structure, making the output more structured and actionable.
